@@ -1,0 +1,192 @@
+﻿Country,Age 0 to 14 Years,Age 15 to 64 Years,Age above 65 Years
+Japan,12.90%,60.10%,27%
+Italy,13.50%,63.50%,23%
+Portugal,13.60%,64.90%,22%
+Germany,13.10%,65.50%,22%
+Finland,16.40%,62.40%,21%
+Bulgaria,14.20%,65.00%,21%
+Greece,14.20%,65.40%,20%
+Sweden,17.50%,62.50%,20%
+Latvia,15.40%,64.80%,20%
+Denmark,16.50%,63.80%,20%
+France,18.10%,62.20%,20%
+Croatia,14.70%,65.60%,20%
+Estonia,16.40%,64.20%,20%
+Malta,14.40%,66.10%,19%
+Spain,14.70%,65.90%,19%
+Austria,14.10%,66.70%,19%
+Slovenia,15.00%,66.00%,19%
+Czech Republic,15.40%,65.60%,19%
+Lithuania,14.80%,66.20%,19%
+Netherlands,16.40%,64.80%,19%
+Hungary,14.30%,67.10%,19%
+US Virgin Islands (US),20.10%,61.30%,19%
+Belgium,17.10%,64.30%,19%
+United Kingdom,17.70%,63.80%,19%
+Switzerland,14.90%,66.70%,18%
+Romania,15.30%,66.90%,18%
+Serbia,16.50%,66.20%,17%
+Canada,16.00%,67.00%,17%
+Norway,17.80%,65.40%,17%
+Poland,14.80%,68.40%,17%
+Bosnia and Herzegovina,14.10%,69.30%,17%
+Ukraine,15.50%,68.00%,17%
+Curaçao,18.70%,64.90%,16%
+Hong Kong,11.50%,72.20%,16%
+Australia,19.00%,65.50%,16%
+United States,18.90%,65.70%,15%
+New Zealand,19.80%,64.90%,15%
+Puerto Rico (US),17.90%,66.90%,15%
+Slovakia,15.40%,69.60%,15%
+Barbados,19.10%,66.00%,15%
+Georgia,19.20%,66.00%,15%
+Belarus,16.70%,68.50%,15%
+Montenegro,18.10%,67.10%,15%
+Uruguay,21.10%,64.30%,15%
+Cuba,16.10%,69.20%,15%
+Iceland,20.10%,65.50%,14%
+Luxembourg,16.50%,69.20%,14%
+Russia,17.60%,68.20%,14%
+South Korea,13.50%,72.60%,14%
+Ireland,21.60%,64.40%,14%
+Taiwan,13.12%,73.02%,14%
+Cyprus,16.80%,69.80%,13%
+Albania,17.40%,68.90%,13%
+Aruba (Netherlands),17.90%,69.00%,13%
+Singapore,15.00%,72.10%,13%
+North Macedonia,23.70%,64.40%,12%
+Israel,27.90%,60.40%,12%
+Thailand,17.30%,71.30%,11%
+Argentina,24.90%,63.90%,11%
+Armenia,20.00%,68.80%,11%
+Chile,20.30%,68.60%,11%
+Mauritius,18.40%,70.70%,11%
+Moldova,15.70%,73.40%,11%
+China,17.70%,71.70%,11%
+Sri Lanka,24.00%,65.90%,10%
+Trinidad and Tobago,20.70%,69.30%,10%
+Macau,13.40%,76.90%,10%
+Jamaica,22.70%,67.60%,10%
+Saint Lucia,18.90%,71.40%,10%
+Guam (US),24.70%,65.70%,10%
+Costa Rica,21.30%,68.90%,10%
+North Korea,20.60%,69.90%,10%
+Bahamas,20.50%,70.60%,9%
+Brazil,21.70%,69.70%,9%
+Seychelles,22.20%,69.20%,9%
+Lebanon,23.10%,68.40%,9%
+El Salvador,27.40%,64.40%,8%
+Turkey,25.00%,66.90%,8%
+Tunisia,24.00%,68.00%,8%
+Panama,27.40%,64.70%,8%
+Saint Vincent and the Grenadines,23.80%,68.50%,8%
+Colombia,23.50%,68.90%,8%
+Grenada,26.30%,66.40%,7%
+Peru,27.40%,65.50%,7%
+Vietnam,23.10%,69.80%,7%
+Ecuador,28.40%,64.50%,7%
+Dominican Republic,29.30%,63.70%,7%
+Kazakhstan,27.90%,65.10%,7%
+Mexico,26.70%,66.50%,7%
+Antigua and Barbuda,23.90%,69.20%,7%
+Suriname,26.40%,66.60%,7%
+Morocco,27.40%,65.80%,7%
+Bolivia,31.60%,61.70%,7%
+Venezuela,27.60%,65.80%,7%
+Paraguay,29.40%,64.20%,6%
+Malaysia,24.30%,69.40%,6%
+Algeria,29.30%,64.50%,6%
+Fiji,28.50%,65.30%,6%
+India,27.80%,66.20%,6%
+Azerbaijan,23.30%,70.70%,6%
+Nepal,30.90%,63.30%,6%
+Tonga,35.80%,58.30%,6%
+Myanmar,26.80%,67.40%,6%
+Samoa,36.60%,57.80%,6%
+Nicaragua,29.00%,65.50%,5%
+Iran,23.70%,70.90%,5%
+Indonesia,27.40%,67.30%,5%
+Guyana,28.10%,65.70%,5%
+South Africa,29.00%,65.70%,5%
+Egypt,33.50%,61.40%,5%
+Bangladesh,28.40%,66.50%,5%
+Bhutan,26.60%,68.60%,5%
+Philippines,31.70%,63.50%,5%
+Haiti,33.00%,62.20%,5%
+Federated States of Micronesia,33.10%,62.10%,5%
+Honduras,31.60%,63.70%,5%
+Guatemala,35.10%,60.30%,5%
+Brunei,23.00%,72.40%,5%
+Lesotho,35.40%,60.10%,5%
+Cape Verde,30.20%,65.30%,5%
+Kyrgyzstan,31.80%,63.70%,5%
+Pakistan,34.80%,60.70%,5%
+Gabon,35.90%,59.60%,5%
+Uzbekistan,28.00%,67.50%,5%
+Libya,28.20%,67.40%,4%
+Cambodia,31.30%,64.30%,4%
+Vanuatu,36.00%,59.70%,4%
+Turkmenistan,30.90%,64.80%,4%
+Syria,36.60%,59.10%,4%
+Djibouti,31.10%,64.70%,4%
+Maldives,23.40%,72.50%,4%
+Laos,32.90%,63.10%,4%
+Mongolia,29.70%,66.30%,4%
+Botswana,31.40%,64.70%,4%
+Belize,31.40%,64.70%,4%
+Jordan,35.50%,60.70%,4%
+Papua New Guinea,35.90%,60.30%,4%
+Central African Republic,43.20%,53.10%,4%
+Timor-Leste,43.60%,52.80%,4%
+Namibia,36.70%,59.80%,4%
+Eritrea,41.80%,54.60%,4%
+Sudan,40.80%,55.60%,4%
+Ethiopia,40.60%,55.90%,4%
+Tajikistan,35.30%,61.30%,4%
+Solomon Islands,38.80%,57.70%,4%
+Republic of the Congo,42.30%,54.30%,3%
+South Sudan,41.70%,54.90%,3%
+Ghana,38.50%,58.10%,3%
+Saudi Arabia,25.20%,71.50%,3%
+Eswatini (Swaziland),37.20%,59.70%,3%
+Cameroon,42.70%,54.10%,3%
+Benin,42.70%,54.10%,3%
+Iraq,40.40%,56.40%,3%
+Mozambique,44.80%,52.10%,3%
+Liberia,41.80%,55.10%,3%
+Tanzania,44.90%,52.00%,3%
+Mauritania,39.90%,56.90%,3%
+Guinea,42.30%,54.60%,3%
+Palestine,39.60%,57.40%,3%
+Senegal,42.90%,54.10%,3%
+Malawi,44.00%,53.00%,3%
+Rwanda,40.10%,56.90%,3%
+Democratic Republic of the Congo,46.30%,50.70%,3%
+Comoros,39.80%,57.30%,3%
+Guinea-Bissau,40.70%,55.50%,3%
+Ivory Coast,42.40%,54.60%,3%
+Madagascar,41.00%,56.10%,3%
+São Tomé and Príncipe,42.80%,54.30%,3%
+Yemen,39.90%,57.20%,3%
+Togo,41.60%,55.60%,3%
+Zimbabwe,41.20%,56.00%,3%
+Nigeria,44.00%,53.30%,3%
+Equatorial Guinea,37.20%,60.00%,3%
+Kenya,40.50%,56.80%,3%
+Somalia,46.40%,50.80%,3%
+Afghanistan,43.20%,54.20%,3%
+Burundi,45.00%,52.40%,3%
+Niger,50.20%,47.20%,3%
+Chad,47.10%,50.40%,3%
+Sierra Leone,42.10%,55.40%,3%
+Zambia,44.80%,52.70%,3%
+Mali,47.70%,49.80%,3%
+Oman,21.80%,75.80%,2%
+Burkina Faso,45.20%,52.40%,2%
+Bahrain,19.70%,77.90%,2%
+Angola,46.80%,50.80%,2%
+Gambia,45.30%,52.30%,2%
+Kuwait,21.10%,76.60%,2%
+Uganda,47.70%,50.10%,2%
+Qatar,13.90%,84.80%,1%
+United Arab Emirates,13.90%,85.00%,1%
