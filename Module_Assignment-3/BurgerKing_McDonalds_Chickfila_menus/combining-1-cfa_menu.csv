@@ -1,0 +1,86 @@
+,Category,Items,Calories,Protein (g),Total Fat (g),Total Carbs (g),Sodium (mg)
+1,Breakfast,"Bacon, Egg & Cheese Biscuit",500,21,27,43,1370
+2,Breakfast,Biscuit,310,5,13,41,700
+3,Breakfast,Chick-n-Minis: 3 count,280,16,10,31,640
+4,Breakfast,Chicken Biscuit,440,17,20,47,1240
+5,Breakfast,Chicken Breakfast Burrito,450,24,20,43,990
+6,Breakfast,"Chicken, Egg & Cheese Bagel",480,29,20,49,1230
+7,Breakfast,Cinnamon Cluster,430,7,17,63,240
+8,Breakfast,"Hash Brownseval(ez_write_tag([[970,250],'nutrition_charts_com-medrectangle-4','ezslot_2',140,'0','0']));",280,3,19,25,410
+9,Breakfast,Sausage Biscuit,590,16,41,42,1250
+10,Breakfast,Sausage Breakfast Burrito,510,23,29,40,970
+11,Breakfast,Yogurt Parfait,230,6,3,44,60
+12,Breakfast,Yogurt Parfait with Chocolate Cookie Crumbs,240,7,5,47,75
+13,Breakfast,Yogurt Parfait with Granola,290,7,5,54,70
+15,Classics,Chargrilled Chicken Club Sandwich,410,37,12,39,1460
+16,Classics,Chargrilled Chicken Sandwich,300,29,4,38,1120
+17,Classics,Chick-n-Strips: 4 count,500,47,24,24,1630
+18,Classics,Chicken Deluxe Sandwich,500,35,21,43,1630
+19,Classics,Chicken Salad Sandwich,500,29,20,52,1240
+20,Classics,Chicken Sandwich,430,31,17,39,1370
+21,Classics,Nuggets: 12-count,400,42,17,18,1480
+22,Classics,Spicy Chicken Deluxe Sandwich,580,36,27,48,1880
+23,Classics,Spicy Chicken Sandwich,490,31,20,46,1730
+25,Condiments,Apple Jelly (packet),35,0,0,9,0
+26,Condiments,Grape Jelly (packet),35,0,0,9,0
+27,Condiments,Ketchup (packet),10,0,0,2,105
+28,Condiments,Light Mayonnaise (packet),40,0,4,1,85
+29,Condiments,Mayonnaise (packet),90,0,10,1,70
+30,Condiments,Mixed Fruit Jelly (packet),35,0,0,9,0
+31,Condiments,Mustard (packet),5,0,0,1,60
+34,Desserts,Chocolate Milkshake:Large,750,16,28,113,520
+35,Desserts,Cookie & Cream Milkshake:Large,700,17,33,100,550
+36,Desserts,Fudge Nut Brow nie,370,5,19,45,180
+37,Desserts,Icecream:cone,170,5,4,31,115
+38,Desserts,Lemon Pie,360,6,13,58,290
+39,Desserts,Peach Milkshake: Large,850,15,21,153,540
+40,Desserts,Straw berry Milkshake: Large,770,16,28,118,530
+41,Desserts,Vanilla Milkshake: Large,660,16,27,91,510
+43,Dressings and Sauces,Barbecue Sauce,45,0,0,11,180
+44,Dressings and Sauces,Blue Cheese Dressing,150,1,16,1,300
+45,Dressings and Sauces,Buffalo Sauce,10,0,0,1,420
+46,Dressings and Sauces,Buttermilk Ranch Dressing,160,0,17,1,280
+47,Dressings and Sauces,Buttermilk Ranch Sauce,110,0,12,1,200
+48,Dressings and Sauces,Caesar Dressing,160,1,17,1,240
+49,Dressings and Sauces,Chick-fil-A Sauce,140,0,13,6,170
+50,Dressings and Sauces,"Fat Free Honey Mustard Dressingeval(ez_write_tag([[970,250],'nutrition_charts_com-box-4','ezslot_4',133,'0','0']));",60,0,0,14,210
+51,Dressings and Sauces,Honey Mustard Sauce,45,0,0,10,150
+52,Dressings and Sauces,Honey Roasted Barbeque Sauce,60,0,5,2,70
+53,Dressings and Sauces,Light Italian Dressing,15,0,1,2,580
+54,Dressings and Sauces,Polynesian Sauce,110,0,6,14,210
+55,Dressings and Sauces,Reduced Fat Berry Balsamic Vinaigrette,70,0,2,12,150
+56,Dressings and Sauces,Spicy Dressing,140,0,14,2,130
+57,Dressings and Sauces,Thousand Island Dressing,150,0,14,5,250
+59,Drinks,100% Colombian Coffee: Large,5,1,0,0,10
+60,Drinks,Chocolate Milk,160,6,2,21,190
+61,Drinks,Coca-Cola: Large,250,0,0,69,25
+62,Drinks,Dasani Bottled Water,0,0,0,0,0
+63,Drinks,Diet Coke: Large,5,0,0,0,10
+64,Drinks,Diet Lemonade: Large,30,0,0,11,15
+65,Drinks,Dr. Pepper: Larger,260,0,0,70,90
+66,Drinks,Iced Tea- Sweetened: Large,220,0,0,57,15
+67,Drinks,Iced Tea- Unsweetened: Large,0,0,0,0,20
+68,Drinks,Lemonade: Large,350,0,0,92,15
+69,Drinks,Milk,110,7,4,12,115
+70,Drinks,Minute Maid Apple Juice Box,100,0,0,23,15
+71,Drinks,Orange Juice,140,2,0,33,0
+73,Salads,Chargrilled & Fruit Salad,230,22,6,23,650
+74,Salads,Chargrilled Chicken Garden Salad,180,22,6,11,650
+75,Salads,Chick-n-Strip Salad,470,41,23,27,1340
+76,Salads,Garlic and Butter Croutons,60,1,2,9,150
+78,Salads,Honey Roasted Sunflower Kernels,90,2,7,4,55
+79,Salads,Southwest Chargrilled Salad,240,26,9,18,820
+80,Salads,Tortilla Strips,80,1,4,8,50
+82,Salads,Chargrilled Chicken Cool Wrap,410,33,12,50,1300
+83,Salads,Chicken Caesar Cool Wrap,460,39,15,47,1520
+84,Salads,Spicy Chicken Cool Wrap,410,35,12,48,1380
+86,Side Items,Carrot & Raisin Salad,390,2,18,59,230
+87,Side Items,Chicken Salad Cup,350,27,24,6,1100
+88,Side Items,Cole Slaw,580,3,50,31,450
+89,Side Items,Fruit Cup: large,100,1,0,27,0
+90,Side Items,Hearty Breast of Chicken Soup: large,220,12,6,30,1760
+91,Side Items,Side Salad,70,5,5,5,110
+92,Side Items,Waffle Potato Fries: large,430,5,23,50,210
+93,Side Items,Yogurt Parfait,230,6,3,44,60
+94,Side Items,Yogurt Parfait with Chocolate Cookie Crumbs,240,7,5,47,75
+95,Side Items,Yogurt Parfait with Granola,290,7,5,54,70
