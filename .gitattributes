@@ -1,1 +1,11 @@
 Shows_Episodes_Details.csv filter=lfs diff=lfs merge=lfs -text
+Module_Assignment-6/Youtube_trends/CAvideos.csv filter=lfs diff=lfs merge=lfs -text
+DEvideos.csv filter=lfs diff=lfs merge=lfs -text
+FRvideos.csv filter=lfs diff=lfs merge=lfs -text
+GBvideos.csv filter=lfs diff=lfs merge=lfs -text
+INvideos.csv filter=lfs diff=lfs merge=lfs -text
+JPvideos.csv filter=lfs diff=lfs merge=lfs -text
+KRvideos.csv filter=lfs diff=lfs merge=lfs -text
+MXvideos.csv filter=lfs diff=lfs merge=lfs -text
+RUvideos.csv filter=lfs diff=lfs merge=lfs -text
+USvideos.csv filter=lfs diff=lfs merge=lfs -text
